@@ -33,14 +33,18 @@
  ⚡ Fun fact: Did't know fun thing about me but my friends says i am a Good boy.
  👨 all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
-![satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamjha74&show_icons=true&hide_border=true) 
-<br />
-<hr>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamjha74&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjha74&theme=tokyonight" />
+</p>
+
+
+
 
 <p align="left"> <a href="https://twitter.com/_satyaj_" target="blank"><img src="https://img.shields.io/twitter/follow/_satyaj_?logo=twitter&style=for-the-badge" alt="_satyaj_" /></a> </p>
 
 <p align="center">
-<img src="./astro.svg" alt="satyamjha74" height="180px">
+<img src="./astro.svg" alt="satyam jha" height="180px">
 <br/>
 Connecting dots in computer science ⭐
 </p>
