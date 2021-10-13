@@ -48,7 +48,7 @@
 <br/>
 Connecting dots in computer science ⭐
 </p>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjha74.satyamjha74)
 <!--
 **Satyamjha74/satyamjha74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
