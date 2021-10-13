@@ -36,16 +36,7 @@
 <br />
 <hr>
 
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-
-
-
-
-
+<p align="left"> <a href="https://twitter.com/_satyaj_" target="blank"><img src="https://img.shields.io/twitter/follow/_satyaj_?logo=twitter&style=for-the-badge" alt="_satyaj_" /></a> </p>
 
 <!--
 **Satyamjha74/satyamjha74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
