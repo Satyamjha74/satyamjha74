@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjha74.satyamjha74)
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [SATYAM!](https://satyamjha74.github.io/) 
 
 <a href="https://www.linkedin.com/in/satyam-kumar-jha-71570921a/">
@@ -32,7 +34,13 @@
  
 ![satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamjha74&show_icons=true&hide_border=true) 
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjha74.satyamjha74)
+<hr>
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
 
 
 
