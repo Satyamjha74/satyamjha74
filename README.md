@@ -17,6 +17,7 @@
 <a href="https://dev.to/satyamjha74">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+</a>
 
 <br />
 
@@ -30,8 +31,8 @@
  📫 How to reach me:[satyam](https://twitter.com/_satyaj_)
  😄 Pronouns: He/Him
  ⚡ Fun fact: Did't know fun thing about me but my friends says i am a Good boy.
- 
- 
+ 👨 all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
+
 ![satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamjha74&show_icons=true&hide_border=true) 
 <br />
 <hr>
