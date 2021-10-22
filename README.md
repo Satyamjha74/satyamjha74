@@ -22,16 +22,12 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Devops, Cloud, Web dev, Machine Learning,Cyber security, productivity, nuerobiology  & I enjoy learning new things. </br>
- 🔭 I’m currently working on my skills. 
- 🌱 I’m currently learning python.
- 👯 I’m looking to collaborate on Project on Python.
- 🤔 I’m looking for help with Mentorship for my future endevours.
- 📫 How to reach me:[satyam](https://twitter.com/_satyaj_)
- 😄 Pronouns: He/Him
- ⚡ Fun fact: Did't know fun thing about me but my friends says i am a Good boy.
- 👨 all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
+- I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+- I am passionate about Devops, Cloud, Web dev, Machine Learning,Cyber security, productivity, nuerobiology  & I enjoy learning new things. </br> 
+-  I’m currently learning python and web development.
+- I’m looking to collaborate on Project related to python and basic web dev projects.
+- I’m looking for help with Mentorship for my future endevours.
+- all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamjha74&show_icons=true&theme=tokyonight" />
@@ -54,17 +50,5 @@ Connecting dots in computer science ⭐
 
 
 
-<!--
-**Satyamjha74/satyamjha74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
