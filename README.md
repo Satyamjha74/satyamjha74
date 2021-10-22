@@ -30,10 +30,11 @@
 - all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamjha74&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjha74&theme=tokyonight" />
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamjhadev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjhadev&theme=tokyonight" />
+  
 
+</p>
 
 
 
@@ -46,7 +47,7 @@ Connecting dots in computer science ⭐
 </p>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjha74.satyamjha74)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjhadev.satyamjhadev)
 
 
 
