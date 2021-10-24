@@ -8,18 +8,12 @@
 <a href="https://twitter.com/_satyaj_">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="mailto:satyamjhadev@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <a href="https://dev.to/satyamjha74">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-</a>
 
-<br />
+[![Youtube Badge](https://img.shields.io/badge/-Satyam%20Jha-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA)](https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA)
+
 
 ### About Me 🚀
 - I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
