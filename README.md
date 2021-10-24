@@ -29,12 +29,28 @@
 - I’m looking for help with Mentorship for my future endevours.
 - all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
+## ⚡ Technologies
+
+
+### Language :
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Familiar Tech :
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
+
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamjhadev&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjhadev&theme=tokyonight" />
   
-
 </p>
+
+
 
 
 
