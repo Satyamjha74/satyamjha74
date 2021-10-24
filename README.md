@@ -46,6 +46,7 @@
 Connecting dots in computer science ⭐
 </p>
 
+[![Satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyamjhadev&theme=xcode)](https://git.io/satyamjhadev)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjhadev.satyamjhadev)
 
