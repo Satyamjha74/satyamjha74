@@ -12,7 +12,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-[![Youtube Badge](https://img.shields.io/badge/-Satyam%20Jha-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA)](https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA)
+[![Youtube Badge](https://img.shields.io/badge/-Satyam%20Jha-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA)](https://www.youtube.com/channel/UCG6G_5OzOcWAE8qptTkjcYg)
 
 
 ### About Me 🚀
