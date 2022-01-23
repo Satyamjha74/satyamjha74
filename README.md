@@ -1,6 +1,6 @@
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [SATYAM!](https://satyamjha74.github.io/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [SATYAM!](https://satyamjhadev.github.io/) 
 
 <a href="https://www.linkedin.com/in/satyam-kumar-jha-71570921a/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
