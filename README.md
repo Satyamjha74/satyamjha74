@@ -18,8 +18,7 @@
 ### About Me 🚀
 - I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 - I am passionate about Devops, Cloud, Web dev, Machine Learning,Cyber security, productivity, nuerobiology  & I enjoy learning new things. </br> 
--  I’m currently learning python and web development.
-- I’m looking to collaborate on Project related to python and basic web dev projects.
+-  I’m currently learning Devops and web development.
 - I’m looking for help with Mentorship for my future endevours.
 - all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
@@ -29,11 +28,15 @@
 ### Language :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ### Familiar Tech :
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 
@@ -60,6 +63,7 @@ Connecting dots in computer science ⭐
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjhadev.satyamjhadev)
 
+![Built with swag](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 
 
