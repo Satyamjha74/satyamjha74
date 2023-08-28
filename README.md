@@ -17,9 +17,8 @@
 
 ### About Me 🚀
 - I’m  a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-- I am passionate about Devops, Cloud, Web dev, Machine Learning,Cyber security, productivity, nuerobiology  & I enjoy learning new things. </br> 
+- I am passionate about Devops, Cloud, Web dev, Machine Learning,Cyber security, productivity, nuerobiology  & I enjoy learning new things. </br>
   
-- 
 - all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
 ## ⚡ Technologies
