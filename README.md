@@ -35,8 +35,13 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
 ### Familiar Tech :
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Node-JS](https://img.shields.io/badge/Node-JS-3C873A)
+![Express-JS](https://img.shields.io/badge/Express-JS-B0C1D4)
+![MongoDB](https://img.shields.io/badge/MongoDB-589636)
+![Mongoose-ODM](https://img.shields.io/badge/Mongoose-B71C1C)
+![EJS](https://img.shields.io/badge/EJS-C0CA33)
+
 
 
 
