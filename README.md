@@ -65,7 +65,7 @@
 Connecting dots in computer science ⭐
 </p>
 
-[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamjhadev&theme=dracula)](https://github.com/satyamjhadev/github-readme-activity-graph)
+[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamjhadev&theme=high-contrast)](https://github.com/satyamjhadev/github-readme-activity-graph)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjhadev.satyamjhadev)
