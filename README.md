@@ -12,12 +12,11 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-[![Youtube Badge](https://img.shields.io/badge/-Satyam%20Jha-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnb6M8d8VjqMINWliNwgfJA)](https://www.youtube.com/channel/UCG6G_5OzOcWAE8qptTkjcYg)
+
 
 
 ### About Me 🚀
-- I’m  a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-- I am passionate about Devops, Cloud, Web dev, Machine Learning,Cyber security, productivity, nuerobiology  & I enjoy learning new things. </br>
+- I’m pursuing my Bachelors in Computer Science & Engineering. </br>
   
 - all the link to connect with me:[satyam!](https://bio.link/satyamkumarjha)
 
@@ -30,6 +29,8 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript).
+
 
 ### Familiar Tech :
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
