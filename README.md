@@ -55,10 +55,6 @@
 
 
 
-
-
-<p align="left"> <a href="https://twitter.com/_satyaj_" target="blank"><img src="https://img.shields.io/twitter/follow/_satyaj_?logo=twitter&style=for-the-badge" alt="_satyaj_" /></a> </p>
-
 <p align="center">
 <img src="./astro.svg" alt="satyam jha" height="180px">
 <br/>
