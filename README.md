@@ -1,6 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,
-
-I'm [SATYAM!](https://satyamjhadev.github.io/) 
+## Hey, I'm [SATYAM!](https://satyamjhadev.github.io/) 
 
 <a href="https://www.linkedin.com/in/satyam-kumar-jha-71570921a/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
@@ -11,6 +9,7 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
 <a href="https://dev.to/satyamjha74">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<br> <br>
 
 
 
@@ -27,12 +26,13 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript).
+![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![Java](https://img.shields.io/badge/java-blue?logo=java)
 
 
 ### Familiar Tech :
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -41,6 +41,7 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
 ![MongoDB](https://img.shields.io/badge/MongoDB-589636)
 ![Mongoose-ODM](https://img.shields.io/badge/Mongoose-B71C1C)
 ![EJS](https://img.shields.io/badge/EJS-C0CA33)
+
 
 
 
@@ -64,11 +65,12 @@ I'm [SATYAM!](https://satyamjhadev.github.io/)
 Connecting dots in computer science ⭐
 </p>
 
-[![Satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyamjhadev&theme=xcode)](https://git.io/satyamjhadev)
+[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamjhadev&theme=dracula)](https://github.com/satyamjhadev/github-readme-activity-graph)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=satyamjhadev.satyamjhadev)
 
-![Built with swag](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Built with SWAG](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
 
 
