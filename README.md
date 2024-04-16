@@ -6,9 +6,7 @@
 <a href="https://twitter.com/_satyaj_">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="https://dev.to/satyamjha74">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+
 <br> <br>
 
 
